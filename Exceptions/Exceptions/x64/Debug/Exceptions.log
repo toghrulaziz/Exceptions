@@ -1,0 +1,3 @@
+﻿  Exceptions.cpp
+C:\Users\User\Desktop\Exceptions\Exceptions\Exceptions\Exceptions.cpp(296,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Exceptions.vcxproj -> C:\Users\User\Desktop\Exceptions\Exceptions\x64\Debug\Exceptions.exe
